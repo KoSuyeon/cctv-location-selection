@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>발표자료</strong>&nbsp;
-  <a href="./presentation/vivit_presentation.pdf">
+  <a href="./presentation/cctv_classification_presentation.pdf">
     <img align="center" src="https://img.shields.io/badge/PRESENTATION-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
